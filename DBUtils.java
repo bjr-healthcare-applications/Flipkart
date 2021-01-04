@@ -1,3 +1,4 @@
-hello guys
-git cmd are importent
+Hello I am in dev branch
+Hello guys
+Git cmd are importent
 
